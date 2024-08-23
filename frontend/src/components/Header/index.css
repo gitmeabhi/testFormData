@@ -1,0 +1,30 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nava-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 30px;
+    border-bottom: 1px solid green;
+    box-shadow: 0px 0px 1px 1px green;
+}
+.nav-heading{
+    font-size: 25px;
+    color: rgb(12, 116, 12);
+}
+.pages{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    width: 20%;
+}
+.nav-item{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(126, 114, 99);
+}
+.link{
+    text-decoration: none;
+}
